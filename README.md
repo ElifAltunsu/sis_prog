@@ -11,32 +11,6 @@ Bu paragrafta hata tolerans sisteminde sunucu tercihi veya özgün katkıların�
 - [ ] Protobuf kullanımı: İstemcilerden gelen Subscriber nesneleri Protobuf formatında işlenmiştir.
 - [ ] Sunucular arası haberleşme: Sunucular arasında eş zamanlı veri yedekleme gerçekleştirilmiştir.
 - [ ] Loglama: Sunucu yedekleme işlemleri detaylı bir şekilde loglanmıştır.
-- [ ] Neptune
-- [ ] Comet Haley
-
-### plotter.py özellikleri
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
-### admin.rb özellikleri
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 
 ### Ekip üyeleri
 

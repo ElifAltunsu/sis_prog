@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package org.example.protos;
+
+message Message {
+  enum Demand {
+    CPCTY = 0;  // Capacity talebi
+    STRT = 1;   // Başlatma komutu
+    STOP = 2;   // Durdurma komutu
+  }
+  enum Response {
+    YEP = 0;    // Başarılı yanıt
+    NOP = 1;    // Başarısız yanıt
+  }
+  Demand demand = 1;
+  Response response = 2;
+}

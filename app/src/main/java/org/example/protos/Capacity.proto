@@ -1,0 +1,8 @@
+syntax = "proto3";
+package org.example.protos;
+
+message Capacity {
+  int32 server_id = 1;        // Sunucu ID'si
+  int32 server_status = 2;    // Sunucunun abone sayısı
+  int64 timestamp = 3;        // UNIX epoch time formatında zaman damgası
+}

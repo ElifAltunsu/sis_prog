@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d3d6840-039a-418b-a445-0c072a39bea4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Clients/Client1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clients/Capacity.proto" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Clients/Capacity.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clients/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clients/Configuration.proto" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Clients/Configuration.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clients/Message.proto" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Clients/Message.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clients/Subscriber.proto" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Clients/Subscriber.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Capacity.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Configuration.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Message.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Server1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Server2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Server3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist_servers/Subscriber.proto" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2rVRrsdL4STu3vGKjg2mAvM7og2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client1 (1).executor": "Run",
+    "Application.Server1.executor": "Run",
+    "Application.Server2.executor": "Run",
+    "Application.Server3 (1).executor": "Run",
+    "Application.org.example.server.Server2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build sis_prog.executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.ClientApp.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.Clients.Client.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.Clients.Client1.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.Clients.Client2.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.Clients.Client3.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.server.DistributedServer.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.server.Server1.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.server.Server2.main()].executor": "Run",
+    "Gradle.sis_prog:app [:app:org.example.server.Server3.main()].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/altun/IdeaProjects/sis_prog/app/build/classes/java/main/org/example/server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+      <recent name="org.example.dist_servers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\classes\java\main\org\example\server" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\src\main\java\org\example\protos" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\classes\java\main\org\example\protos" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\classes\java\main\org\example\Clients" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\src\main\java\org\example\Proto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\classes\java\main\org\example\protos" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\generated\sources\proto\java\main\org\example" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\generated\sources\proto\java\main" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\build\classes\java\main\org\example\Proto" />
+      <recent name="C:\Users\altun\IdeaProjects\sis_prog\app\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$/app" />
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/app/src/main" />
+        <option value="$PROJECT_DIR$/app/src/test" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client3">
+    <configuration name="Client1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clients.Client1" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clients.Client2" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clients.Client3" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributedServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.server.DistributedServer" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.server.Server1" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.server.Server2" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.server.dist_servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.server.Server3" />
+      <module name="sis_prog.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client1 (1)" />
+        <item itemvalue="Application.DistributedServer" />
+        <item itemvalue="Application.Server3" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Client2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d3d6840-039a-418b-a445-0c072a39bea4" name="Changes" comment="" />
+      <created>1736642460437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736642460437</updated>
+      <workItem from="1736642465281" duration="1141000" />
+      <workItem from="1736682048845" duration="11485000" />
+      <workItem from="1736696999547" duration="8644000" />
+      <workItem from="1736711584331" duration="4478000" />
+      <workItem from="1736716410440" duration="1230000" />
+      <workItem from="1736724610158" duration="2062000" />
+      <workItem from="1736727056351" duration="1488000" />
+      <workItem from="1736728572674" duration="407000" />
+      <workItem from="1736728999073" duration="145000" />
+      <workItem from="1736729177874" duration="669000" />
+      <workItem from="1736767488406" duration="14812000" />
+      <workItem from="1736784007439" duration="12590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
